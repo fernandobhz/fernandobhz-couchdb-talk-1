@@ -1,5 +1,5 @@
 /**
- * Código simples - KIS
+ * Código simples - KISS
  * 
  * Conceitos iniciais: 
  *  - CouchDB 2.0 (3.0 não cheguei a ver)
