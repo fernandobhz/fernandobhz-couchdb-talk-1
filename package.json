@@ -1,0 +1,25 @@
+{
+  "name": "couchdb-talk-1",
+  "version": "1.0.0",
+  "description": "Super simple code to teach about couchdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandobhz/couchdb-talk-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/couchdb-talk-1/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/couchdb-talk-1#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "pouchdb": "^7.2.1",
+    "pouchdb-find": "^7.2.1"
+  }
+}
