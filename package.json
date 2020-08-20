@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/fernandobhz/couchdb-talk-1#readme",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "pouchdb": "^7.2.1",
     "pouchdb-find": "^7.2.1"
   }
